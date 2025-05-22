@@ -9,7 +9,7 @@ import threading
 from kafka_wrapper import KafkaTranslate
 from db.database import connectmongo
 
-from kafka_wrapper import KafkaTranslate_v2
+#from kafka_wrapper import KafkaTranslate_v2
 
 server  = Flask(__name__)
 
